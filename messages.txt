@@ -1,0 +1,45 @@
+Name: f
+Email: fazaradityaparama2008@gmail.comf
+Message:
+ff
+
+---------------------
+
+Name: Faza Raditya Parama
+Email: fafaf@gmail.com
+Message:
+Keren
+
+---------------------
+
+Name: Faza
+Email: DADA@GMAIL.COM
+Message:
+Keren
+
+---------------------
+
+<<<<<<< HEAD
+Name: AZA
+Email: faf@gmail.com
+Message:
+AZA
+
+---------------------
+
+Name: Dani
+Email: Dani@gmail.com
+Message:
+Mantap
+
+---------------------
+
+Name: Dani
+Email: Dani@gmail.com
+Message:
+Keren POLLL
+
+---------------------
+
+=======
+>>>>>>> b669f641dd6542a4d45d0f48a832e88916b493a0
